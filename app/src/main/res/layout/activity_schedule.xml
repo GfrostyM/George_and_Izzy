@@ -27,6 +27,7 @@
         android:layout_width="91dp"
         android:layout_height="51dp"
         android:text="Back"
+        android:backgroundTint="#a476ff"
         tools:layout_editor_absoluteX="12dp"
         tools:layout_editor_absoluteY="16dp" />
 
