@@ -24,7 +24,8 @@
         android:id="@+id/buttonBack2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Return"
+        android:backgroundTint="#a476ff"
         tools:layout_editor_absoluteX="31dp"
         tools:layout_editor_absoluteY="17dp" />
 
