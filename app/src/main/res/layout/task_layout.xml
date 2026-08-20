@@ -17,7 +17,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:buttonTint="@color/black"
+            android:buttonTint="#a476ff"
             android:id="@+id/checkbox"
             android:text="this is simple text"
             android:textSize="18sp"
